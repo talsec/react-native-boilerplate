@@ -1,5 +1,5 @@
-
 # React Native Secure Boilerplate 2024: Ignite with freeRASP
+[Read the full article](https://docs.talsec.app/appsec-articles/articles/react-native-secure-boilerplate-2024-ignite-with-freerasp)
 
 ## Overview
 
